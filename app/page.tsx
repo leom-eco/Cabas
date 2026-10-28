@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 // À REMPLACER par ton adresse e-mail de contact (elle sert pour la garantie).
-const EMAIL = "[TON E-MAIL]";
+const EMAIL = "cabas.sav@outlook.fr";
 
 export default function Home() {
   return (
